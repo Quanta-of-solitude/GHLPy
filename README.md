@@ -1,5 +1,6 @@
 # GHL v1 Python Wrapper
 > A GHL Python wrapper for persomal use, doesn't contain all the methods as of now.
+> May not be stable xd
 
 <br/>
 
@@ -15,6 +16,8 @@
 
 ### Installation
 ---
+
+Available at [PyPI](https://pypi.org/project/GHLPy/)
 ```
 pip install GHLpy
 ```
