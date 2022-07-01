@@ -1,5 +1,5 @@
 # GHL v1 Python Wrapper
-> A GHL Python wrapper for persomal use, doesn't contain all the methods as of now.
+> A GHL Python wrapper for personal use, doesn't contain all the methods as of now.
 > May not be stable xd
 
 <br/>
@@ -23,6 +23,7 @@ pip install GHLpy
 ```
 
 <br/>
+
 ### Requirements
 ---
 > Used runtime: Python 3.8
